@@ -1,4 +1,4 @@
-# 🎓 MentorHub — Mentor-Mentee Platform
+# 🎓 MentorPLT — Mentor-Mentee Platform
 
 A full-stack MERN application connecting mentors and mentees.
 
